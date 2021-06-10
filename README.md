@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**amarsharma441/amarsharma441** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**EZ4ZZW/ez4zzw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Amar's github stats](https://github-readme-stats.vercel.app/api?username=amarsharma441&show_icons=true)](https://github.com/amarsharma441)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amarsharma441&layout=compact&hide=html,css,java)](https://github.com/amarsharma441)
