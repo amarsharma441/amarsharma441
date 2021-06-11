@@ -6,9 +6,13 @@
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-45b8d8?style=flat-square&logo=flask&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C-430098?style=flat-square&logo=c&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/-C Sharp-43853d?style=flat-square&logo=C-Sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
+   <img src="https://img.shields.io/badge/-Visual%20Studio-23A9F2?style=flat-square&logo=Visual%20Studio&logoColor=white"/>
   <img alt=".Net" src="https://img.shields.io/badge/-.Net-43853d?style=flat-square&logo=.net&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-13aa52?style=flat-square&logo=java&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySql-45b8d8?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-43853d?style=flat-square&logo=react&logoColor=white" />
 </p>
