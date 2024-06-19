@@ -8,24 +8,22 @@
 
 <p>
    <!--https://simpleicons.org/-->
+  <img alt="Java" src="https://img.shields.io/badge/-Java-13aa52?style=flat-square&logo=java&logoColor=white" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-13aa52?style=flat-square&logo=python&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-45b8d8?style=flat-square&logo=flask&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/-C-430098?style=flat-square&logo=c&logoColor=white" />
-  <img alt="C#" src="https://img.shields.io/badge/-C Sharp-43853d?style=flat-square&logo=C-Sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
-   <img src="https://img.shields.io/badge/-Visual%20Studio-23A9F2?style=flat-square&logo=Visual%20Studio&logoColor=white"/>
-  <img alt=".Net" src="https://img.shields.io/badge/-.Net-43853d?style=flat-square&logo=.net&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-13aa52?style=flat-square&logo=java&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySql-45b8d8?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="DynamoDB" src="https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-43853d?style=flat-square&logo=react&logoColor=white" />
 </p>
 
 -----
 
-<!--<summary><b>:gear: &nbsp;GitHub Statistics</b></summary>-->
 <br/>
 <p align="center">
   <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=amarsharma441&hide_border=true&theme=nightowl" />
@@ -50,9 +48,6 @@
 <!--[![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://manumanoj.me)](https://manumanoj.me)-->
 <!--[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/amarsharma441)](https://facebook.com/amarsharma441)-->
 
-
-
-
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=amarsharma441&style=plastic&label=Views"><img>
 <img src="https://badges.pufler.dev/visits/amarsharma441/amarsharma441?color=black&logo=github" />
@@ -61,4 +56,4 @@
 -----
 Credits: [Amar Sharma](https://www.linkedin.com/in/amarsharma441/)
 
-Last Edited on: 11th June 2021
+Last Edited on: 19th June 2024
